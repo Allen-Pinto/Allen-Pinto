@@ -50,7 +50,7 @@
 ---
 
 ## 📫 Let's Connect  
-- **LinkedIn:** [linkedin.com/in/allenpinto](https://linkedin.com/in/allenpinto)  
+- **LinkedIn:** [linkedin.com/in/allenpinto](https://www.linkedin.com/in/allen-pinto-63aa48303/)  
 - **Portfolio:** https://allen-verse.netlify.app/ 
 - **Email:** pinto.allen05@gmail.com  
 
