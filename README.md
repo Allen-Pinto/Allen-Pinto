@@ -22,7 +22,7 @@
 - Full-stack application built with **React, Node.js, Express, and MongoDB**  
 - Role-based authentication, secure data handling, and responsive UI with Tailwind CSS  
 - Smooth user experience with animations and seamless deployment on Vercel  
-- **[Frontend Repo](https://github.com/allenpinto/donourly-frontend)** | **[Backend Repo](https://github.com/allenpinto/donourly-backend)**  
+- **[Frontend Repo](https://github.com/Allen-Pinto/Donourly-Frontend)** | **[Backend Repo](https://github.com/Allen-Pinto/Donourly-Backend)**  
 
 ---
 
@@ -31,7 +31,7 @@
 - Developed using React & Tailwind CSS for immersive 3D experiences and animations  
 - Interactive interface with visually engaging 3D elements for user interaction  
 - Deployed live on Vercel for public use  
-- **[Repository](https://github.com/allenpinto/vizerion)**  
+- **[Repository](https://github.com/Allen-Pinto/Vizerion)**  
 
 ---
 
