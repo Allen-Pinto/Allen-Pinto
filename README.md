@@ -27,7 +27,7 @@
 ---
 
 ### 🔹 [Vizerion](https://vizerion.vercel.app/)  
-*AI-powered Content Generation Tool*  
+*Immersive 3d Hub for Gamers*  
 - Developed using React & Tailwind CSS for immersive 3D experiences and animations  
 - Interactive interface with visually engaging 3D elements for user interaction  
 - Deployed live on Vercel for public use  
